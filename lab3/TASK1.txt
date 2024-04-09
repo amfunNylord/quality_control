@@ -1,0 +1,15 @@
+Range: One cell, Many Cells
+TypeCell: Text, Number, Date, Default
+Format: Not contains data, Contains data, Contains text, Not contains text, Text starts with, Text ends on, Text the same as, Date, Date before, Date after, More, Egual or more, Less, Equal or less, Equal, Not equal, Between, Not between, Your formula
+Bold: Y, N
+Italics: Y, N
+Underline: Y, N
+Strikethrough: Y, N
+TextColor: None, Dark red, Red, Orange, Yellow, Green, Turquoise, Blue, Dark blue, Purple, Pink, Custom
+BackgroundColor: None, Dark red, Red, Orange, Yellow, Green, Turquoise, Blue, Dark blue, Purple, Pink, Custom
+
+if [Format] in { "Not contains data", "Contains data" } then [TypeCell] = "Default";
+if [Format] in { "Contains text", "Not Contains text", "Text starts with", "Text ends on", "Text the same as" } then [TypeCell] = "Text";
+if [Format] in { "Date", "Date before", "Date after" } then [TypeCell] = "Date";
+if [Format] in { "More", "Equal or more", "Less", "Equal or less", "Equal", "Not equal", "Between", "Not between", "Your formula" } then [TypeCell] = "Number";
+ 

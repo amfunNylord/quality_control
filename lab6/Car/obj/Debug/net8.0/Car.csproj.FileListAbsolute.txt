@@ -1,0 +1,14 @@
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.AssemblyInfoInputs.cache
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.AssemblyInfo.cs
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.csproj.CoreCompileInputs.cache
+C:\projects\university\quality_сontrol\lab6\Car\bin\Debug\net8.0\Car.exe
+C:\projects\university\quality_сontrol\lab6\Car\bin\Debug\net8.0\Car.deps.json
+C:\projects\university\quality_сontrol\lab6\Car\bin\Debug\net8.0\Car.runtimeconfig.json
+C:\projects\university\quality_сontrol\lab6\Car\bin\Debug\net8.0\Car.dll
+C:\projects\university\quality_сontrol\lab6\Car\bin\Debug\net8.0\Car.pdb
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.dll
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\refint\Car.dll
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.pdb
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\Car.genruntimeconfig.cache
+C:\projects\university\quality_сontrol\lab6\Car\obj\Debug\net8.0\ref\Car.dll

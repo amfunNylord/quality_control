@@ -1,0 +1,232 @@
+Range	TypeCell	Format	Bold	Italics	Underline	Strikethrough	TextColor	BackgroundColor
+One cell	Text	Text ends on	Y	Y	Y	Y	Pink	Dark red
+Many Cells	Default	Contains data	N	N	N	N	Turquoise	Dark blue
+Many Cells	Number	Egual or more	N	Y	N	Y	Dark blue	None
+Many Cells	Text	Text starts with	Y	N	Y	N	Orange	Purple
+One cell	Number	Between	Y	Y	N	N	Yellow	Green
+One cell	Default	Not contains data	N	N	Y	Y	Dark red	Pink
+One cell	Number	Less	Y	N	Y	N	Blue	None
+Many Cells	Text	Text the same as	Y	Y	N	Y	Custom	Custom
+Many Cells	Text	Text ends on	N	Y	N	N	Dark red	Yellow
+Many Cells	Date	Date after	Y	Y	N	N	None	Pink
+Many Cells	Text	Contains text	Y	N	Y	Y	Purple	Orange
+Many Cells	Text	Contains text	N	Y	N	N	Red	Dark red
+One cell	Date	Date before	N	Y	N	Y	Blue	Turquoise
+Many Cells	Default	Not contains data	Y	Y	N	N	Purple	Blue
+One cell	Number	Your formula	Y	N	Y	Y	Dark red	Red
+Many Cells	Number	Between	N	N	Y	Y	Green	Pink
+Many Cells	Text	Text starts with	N	Y	N	Y	Blue	Red
+One cell	Default	Not contains data	Y	N	Y	N	Dark blue	Green
+One cell	Text	Text ends on	N	N	Y	Y	Red	Green
+One cell	Date	Egual or more	Y	N	Y	Y	Red	Blue
+One cell	Date	Date	N	Y	N	Y	Red	Purple
+One cell	Number	Less	N	Y	Y	Y	Purple	Dark blue
+One cell	Text	Text starts with	N	Y	N	N	Red	Orange
+Many Cells	Number	Not between	N	N	Y	N	Custom	Green
+One cell	Date	Date before	Y	N	Y	Y	Turquoise	Yellow
+Many Cells	Number	Not equal	Y	N	Y	N	Dark blue	Turquoise
+One cell	Default	Contains data	Y	N	Y	Y	Pink	Purple
+One cell	Default	Contains data	N	Y	Y	N	Blue	Custom
+One cell	Number	Not equal	N	Y	N	Y	Orange	Dark blue
+Many Cells	Number	Less	N	N	N	Y	Orange	Dark red
+Many Cells	Text	Text starts with	N	Y	N	N	Turquoise	None
+Many Cells	Text	Not contains text	N	N	Y	Y	Yellow	Yellow
+One cell	Number	Equal or less	N	N	Y	Y	None	None
+One cell	Number	More	Y	Y	N	N	Green	None
+Many Cells	Default	Not contains data	N	Y	N	N	Pink	None
+Many Cells	Number	Your formula	N	N	N	N	Green	Custom
+Many Cells	Number	Equal	Y	N	Y	N	Turquoise	Red
+One cell	Date	Date after	N	N	Y	Y	Custom	Dark red
+One cell	Number	Your formula	N	Y	N	N	Orange	Blue
+One cell	Number	Not between	Y	Y	N	Y	None	Custom
+One cell	Text	Text ends on	Y	N	Y	Y	Green	Dark blue
+One cell	Text	Not contains text	Y	Y	N	N	None	Red
+One cell	Number	Equal	N	Y	N	Y	Orange	Orange
+Many Cells	Number	Less	Y	Y	Y	N	Turquoise	Turquoise
+Many Cells	Text	Text ends on	Y	N	Y	N	Dark blue	Red
+One cell	Text	Text starts with	Y	Y	Y	Y	Pink	Green
+Many Cells	Number	Between	N	N	Y	Y	Pink	Turquoise
+One cell	Number	Not equal	Y	N	Y	Y	Custom	Orange
+One cell	Number	Not equal	Y	N	N	N	Blue	Yellow
+Many Cells	Date	Date	Y	N	Y	N	Green	Turquoise
+Many Cells	Number	Between	Y	Y	Y	N	Orange	Red
+One cell	Number	Not equal	Y	N	Y	Y	Yellow	Purple
+One cell	Number	Not between	Y	N	N	Y	Orange	Turquoise
+One cell	Default	Contains data	N	N	Y	Y	Yellow	Red
+One cell	Number	Equal	Y	N	Y	N	Yellow	Turquoise
+One cell	Date	Date after	N	Y	Y	Y	Red	Yellow
+Many Cells	Number	Equal or less	Y	Y	N	N	Dark blue	Orange
+Many Cells	Number	Your formula	N	Y	N	Y	Blue	Orange
+One cell	Text	Not contains text	Y	N	N	Y	Purple	Turquoise
+One cell	Text	Text ends on	Y	N	Y	N	Orange	Custom
+Many Cells	Number	More	N	N	Y	Y	Orange	Yellow
+Many Cells	Text	Text ends on	Y	Y	N	N	Custom	Pink
+One cell	Number	Equal or less	Y	Y	Y	N	Orange	Pink
+One cell	Date	Date after	Y	Y	Y	N	Pink	Orange
+One cell	Text	Not contains text	Y	Y	N	N	Green	Purple
+Many Cells	Date	Date before	Y	Y	N	N	Green	Blue
+One cell	Number	Equal or less	Y	N	Y	Y	Custom	Blue
+One cell	Text	Contains text	Y	N	N	N	Dark red	Turquoise
+One cell	Default	Not contains data	Y	N	N	Y	Yellow	Dark red
+One cell	Text	Text ends on	N	Y	Y	Y	None	Turquoise
+Many Cells	Number	Less	N	N	N	Y	Dark blue	Blue
+Many Cells	Date	Date after	Y	Y	N	N	Yellow	Blue
+Many Cells	Number	Equal	Y	N	Y	Y	Dark red	Custom
+Many Cells	Text	Text ends on	N	N	Y	N	Yellow	None
+Many Cells	Default	Egual or more	Y	N	N	N	Orange	Green
+Many Cells	Number	Less	Y	Y	N	Y	Green	Yellow
+One cell	Text	Text the same as	N	N	Y	N	Dark blue	Dark blue
+One cell	Date	Date after	Y	Y	N	Y	Purple	Green
+Many Cells	Text	Text starts with	N	N	N	N	Yellow	Dark blue
+Many Cells	Number	Equal or less	Y	Y	Y	N	Turquoise	Custom
+One cell	Number	Equal	N	Y	N	Y	Red	Dark blue
+One cell	Number	Not between	N	N	N	N	Dark red	Blue
+Many Cells	Default	Contains data	Y	Y	Y	Y	None	Blue
+One cell	Number	Equal	Y	N	N	N	Pink	Blue
+One cell	Date	Date before	Y	Y	Y	N	None	Orange
+Many Cells	Default	Not contains data	N	Y	N	N	None	Yellow
+One cell	Text	Text starts with	N	Y	N	Y	Custom	Blue
+Many Cells	Text	Contains text	N	Y	Y	Y	Green	Red
+Many Cells	Number	Equal	N	Y	N	N	Custom	None
+Many Cells	Date	Date	Y	Y	N	N	Dark blue	Pink
+Many Cells	Number	Not between	N	Y	N	Y	Green	Orange
+Many Cells	Number	Less	N	Y	Y	N	Custom	Red
+Many Cells	Date	Date before	Y	N	N	N	Red	None
+Many Cells	Text	Not contains text	N	Y	N	Y	Custom	Dark blue
+Many Cells	Number	Your formula	N	N	N	Y	None	Dark blue
+Many Cells	Date	Date	N	Y	N	N	Blue	Blue
+One cell	Text	Contains text	N	N	Y	N	Dark blue	Custom
+Many Cells	Default	Contains data	N	N	N	Y	Custom	Turquoise
+One cell	Date	Date before	Y	N	N	N	Pink	Pink
+Many Cells	Date	Date after	N	Y	Y	N	Dark red	Dark blue
+Many Cells	Number	More	N	N	N	Y	Dark blue	Purple
+Many Cells	Default	Contains data	Y	Y	N	N	Purple	None
+One cell	Number	Equal or less	Y	N	Y	N	Dark red	Purple
+One cell	Number	Equal	N	Y	N	Y	None	Dark red
+Many Cells	Number	Not equal	N	Y	N	N	Purple	Custom
+Many Cells	Text	Text the same as	N	Y	N	Y	Red	Pink
+One cell	Default	Not contains data	N	Y	Y	N	Green	Custom
+Many Cells	Number	Equal	N	Y	Y	N	Purple	Yellow
+One cell	Text	Text starts with	N	N	N	Y	Purple	Pink
+One cell	Text	Text ends on	N	N	Y	Y	Purple	Purple
+One cell	Number	Your formula	Y	Y	N	N	Pink	Yellow
+Many Cells	Date	Egual or more	N	Y	N	N	Pink	Custom
+One cell	Number	Not equal	Y	N	Y	Y	Turquoise	Blue
+Many Cells	Date	Date	Y	N	N	N	Dark red	Orange
+Many Cells	Date	Date	Y	Y	N	N	Purple	Dark red
+Many Cells	Date	Date	Y	N	N	Y	Pink	Red
+One cell	Text	Text starts with	Y	Y	Y	N	None	Custom
+Many Cells	Number	Less	N	Y	N	N	Pink	Orange
+Many Cells	Text	Contains text	N	N	Y	Y	Orange	None
+One cell	Number	Not equal	N	Y	N	Y	Red	Red
+Many Cells	Number	Less	Y	N	Y	N	Red	Custom
+One cell	Date	Date	N	Y	N	N	Orange	Dark blue
+Many Cells	Text	Text the same as	N	Y	N	Y	Orange	Orange
+One cell	Default	Not contains data	Y	N	N	Y	Turquoise	Orange
+One cell	Text	Egual or more	Y	N	N	N	None	Purple
+One cell	Number	Equal or less	N	Y	N	Y	Green	Green
+One cell	Number	Your formula	N	N	Y	N	Red	None
+One cell	Text	Contains text	Y	Y	Y	Y	Blue	Green
+Many Cells	Number	Between	Y	Y	N	Y	Dark blue	Yellow
+Many Cells	Text	Egual or more	Y	Y	N	Y	Yellow	Orange
+Many Cells	Number	Less	Y	N	N	N	Yellow	Pink
+Many Cells	Text	Not contains text	N	N	Y	N	Turquoise	Pink
+Many Cells	Date	Date	N	Y	Y	N	Turquoise	Green
+One cell	Number	Between	N	Y	N	Y	None	Custom
+One cell	Text	Text the same as	N	Y	N	N	None	Green
+One cell	Number	Between	N	N	Y	N	Blue	Purple
+Many Cells	Number	Not equal	Y	N	Y	N	Dark red	None
+Many Cells	Number	Egual or more	Y	Y	Y	Y	Dark red	Dark red
+Many Cells	Number	More	N	N	N	Y	Pink	Dark blue
+Many Cells	Default	Contains data	N	Y	Y	Y	Dark red	Green
+One cell	Default	Not contains data	N	Y	Y	Y	Red	Red
+Many Cells	Number	Equal or less	N	Y	N	N	Blue	Dark red
+One cell	Date	Date before	Y	Y	N	N	Dark blue	Dark red
+Many Cells	Default	Contains data	Y	N	N	N	Dark blue	Orange
+One cell	Number	More	Y	Y	N	N	Custom	Blue
+Many Cells	Text	Text the same as	N	N	Y	N	Purple	Red
+Many Cells	Text	Text the same as	N	Y	N	Y	Turquoise	Purple
+Many Cells	Number	Not between	Y	N	N	Y	Yellow	Custom
+One cell	Date	Date after	Y	Y	Y	Y	Blue	Custom
+Many Cells	Number	More	N	N	N	Y	Turquoise	Dark red
+One cell	Text	Contains text	N	N	Y	N	Blue	Dark blue
+Many Cells	Date	Date before	Y	Y	Y	Y	Dark red	Green
+One cell	Text	Text ends on	Y	Y	N	Y	Blue	Pink
+Many Cells	Default	Contains data	N	N	N	Y	Green	Dark red
+Many Cells	Text	Not contains text	Y	N	N	N	Orange	Orange
+One cell	Text	Text the same as	Y	N	N	Y	Blue	None
+One cell	Text	Contains text	N	N	N	Y	Turquoise	Blue
+One cell	Number	Equal or less	Y	Y	Y	N	Yellow	Dark blue
+One cell	Text	Not contains text	N	N	N	N	Blue	Blue
+One cell	Date	Date before	Y	N	Y	N	Custom	Purple
+Many Cells	Text	Text starts with	N	N	N	Y	Dark red	Dark red
+Many Cells	Number	Not equal	Y	N	Y	Y	Green	Pink
+Many Cells	Number	More	N	Y	N	Y	Dark red	Red
+Many Cells	Number	More	N	N	N	Y	Red	Turquoise
+Many Cells	Text	Not contains text	N	Y	Y	N	Red	Green
+Many Cells	Date	Date after	Y	N	Y	Y	Turquoise	Red
+One cell	Number	Between	N	Y	N	N	Dark red	None
+Many Cells	Number	Your formula	N	Y	Y	N	Turquoise	Dark red
+Many Cells	Date	Date after	Y	N	N	N	Dark blue	Turquoise
+Many Cells	Number	Equal or less	N	N	N	N	Purple	Red
+Many Cells	Number	Not between	N	Y	N	Y	Pink	Purple
+One cell	Number	Between	N	N	N	N	Red	Dark blue
+Many Cells	Number	Egual or more	Y	Y	Y	Y	Custom	Turquoise
+Many Cells	Number	Between	N	Y	N	Y	Turquoise	Blue
+Many Cells	Text	Not contains text	N	Y	Y	N	Pink	Dark red
+Many Cells	Number	Your formula	N	Y	Y	N	Yellow	Green
+Many Cells	Text	Text starts with	Y	Y	N	Y	Dark blue	Turquoise
+One cell	Number	Not between	Y	N	Y	N	Red	None
+Many Cells	Number	Not between	Y	Y	Y	Y	Turquoise	Red
+Many Cells	Date	Date	N	Y	Y	N	Custom	Yellow
+One cell	Date	Date	Y	Y	N	Y	None	None
+One cell	Text	Contains text	Y	N	Y	Y	Pink	Yellow
+Many Cells	Text	Text ends on	Y	Y	Y	Y	Turquoise	Orange
+One cell	Number	Less	N	N	N	N	None	Green
+One cell	Text	Contains text	N	Y	Y	Y	Custom	Purple
+Many Cells	Number	Your formula	N	N	N	N	Custom	Purple
+Many Cells	Date	Egual or more	Y	Y	Y	Y	Blue	Pink
+Many Cells	Default	Egual or more	N	N	Y	N	Purple	Red
+Many Cells	Number	Egual or more	Y	Y	N	Y	Green	Dark blue
+One cell	Default	Not contains data	Y	Y	Y	N	Orange	Purple
+One cell	Text	Not contains text	N	N	Y	N	Dark red	Custom
+One cell	Number	Between	Y	N	Y	N	Purple	Orange
+One cell	Number	Your formula	N	N	Y	Y	Dark blue	Pink
+Many Cells	Number	More	Y	N	Y	Y	None	Custom
+Many Cells	Number	More	N	Y	N	N	Purple	Green
+Many Cells	Default	Not contains data	N	N	N	Y	Custom	Turquoise
+Many Cells	Number	Not between	N	N	Y	Y	Purple	Pink
+Many Cells	Date	Date after	Y	Y	N	Y	Orange	None
+One cell	Number	Between	N	Y	Y	Y	Custom	Dark red
+One cell	Text	Text ends on	Y	Y	N	Y	Turquoise	Blue
+One cell	Number	Not between	N	N	N	Y	Dark blue	Dark blue
+Many Cells	Number	More	Y	N	N	N	Yellow	Orange
+One cell	Date	Date before	N	N	N	N	Purple	Custom
+One cell	Text	Text the same as	Y	Y	N	N	Pink	Blue
+One cell	Date	Date	N	N	Y	Y	Yellow	Custom
+Many Cells	Number	Equal or less	Y	N	N	N	Pink	Yellow
+Many Cells	Text	Not contains text	Y	Y	N	Y	Dark blue	None
+Many Cells	Text	Text the same as	Y	N	Y	N	Yellow	Turquoise
+Many Cells	Number	Your formula	N	Y	Y	Y	Purple	Turquoise
+One cell	Text	Text the same as	N	Y	Y	Y	Dark red	Dark red
+One cell	Default	Contains data	Y	N	Y	Y	Red	Pink
+Many Cells	Number	Equal	Y	N	N	N	Dark blue	Purple
+Many Cells	Number	Not equal	Y	Y	Y	N	None	Green
+Many Cells	Number	Equal	N	N	Y	Y	Blue	Pink
+One cell	Date	Date before	N	N	Y	Y	Yellow	Red
+Many Cells	Date	Date after	Y	Y	Y	Y	Green	Purple
+Many Cells	Date	Date before	Y	Y	Y	N	Orange	Dark blue
+Many Cells	Number	Equal or less	Y	Y	Y	N	Red	Turquoise
+Many Cells	Text	Text starts with	N	N	N	N	Green	Yellow
+One cell	Text	Contains text	N	N	Y	N	Yellow	Pink
+One cell	Number	Not equal	N	N	N	N	Pink	Dark red
+One cell	Number	Egual or more	N	N	Y	Y	Turquoise	Yellow
+Many Cells	Number	Less	N	N	N	N	Dark red	Purple
+Many Cells	Number	Not between	N	Y	N	Y	Blue	Yellow
+One cell	Default	Contains data	Y	N	N	Y	Orange	Yellow
+Many Cells	Text	Text the same as	Y	Y	Y	Y	Green	Yellow
+Many Cells	Number	Equal	N	N	N	Y	Green	Green
+One cell	Number	More	Y	Y	N	Y	Blue	Pink
+Many Cells	Default	Not contains data	N	Y	Y	Y	Blue	Dark blue
+Many Cells	Number	Not between	Y	Y	Y	N	Custom	Dark red
+Many Cells	Text	Contains text	N	Y	Y	N	None	Green

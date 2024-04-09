@@ -1,0 +1,14 @@
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\bin\Debug\net8.0\TriangleTest.exe
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\bin\Debug\net8.0\TriangleTest.deps.json
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\bin\Debug\net8.0\TriangleTest.runtimeconfig.json
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\bin\Debug\net8.0\TriangleTest.dll
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\bin\Debug\net8.0\TriangleTest.pdb
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.AssemblyInfoInputs.cache
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.AssemblyInfo.cs
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.csproj.CoreCompileInputs.cache
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.dll
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\refint\TriangleTest.dll
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.pdb
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\TriangleTest.genruntimeconfig.cache
+C:\projects\university\QualityControl\lab1\Triangle\TriangleTest\obj\Debug\net8.0\ref\TriangleTest.dll
