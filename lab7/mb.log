@@ -1,0 +1,30 @@
+{"level":"warn","message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","timestamp":"2024-04-16T07:13:33.188Z"}
+{"level":"info","message":"[mb:2525] mountebank v2.9.1 now taking orders - point your browser to http://localhost:2525/ for help","timestamp":"2024-04-16T07:13:33.194Z"}
+{"level":"info","message":"[mb:2525] POST /imposters","timestamp":"2024-04-16T07:13:33.203Z"}
+{"level":"info","message":"[http:3000] Open for business...","timestamp":"2024-04-16T07:13:33.220Z"}
+{"level":"info","message":"[http:3000] ::1:53306 => GET /all","timestamp":"2024-04-16T07:14:56.202Z"}
+{"level":"info","message":"[http:3000] ::1:53854 => GET /AUD","timestamp":"2024-04-16T07:16:26.895Z"}
+{"level":"info","message":"[http:3000] ::1:53855 => GET /favicon.ico","timestamp":"2024-04-16T07:16:26.945Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:16:26.962Z"}
+{"level":"info","message":"[http:3000] ::1:54051 => GET /BYN","timestamp":"2024-04-16T07:16:53.318Z"}
+{"level":"info","message":"[http:3000] ::1:54052 => GET /favicon.ico","timestamp":"2024-04-16T07:16:53.371Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:16:53.388Z"}
+{"level":"info","message":"[http:3000] ::1:54076 => GET /fff","timestamp":"2024-04-16T07:16:59.023Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:16:59.037Z"}
+{"level":"info","message":"[http:3000] ::1:54077 => GET /favicon.ico","timestamp":"2024-04-16T07:16:59.078Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:16:59.088Z"}
+{"level":"info","message":"[mb:2525] GET /images/book.jpg","timestamp":"2024-04-16T07:19:05.320Z"}
+{"level":"info","message":"[http:3000] ::1:54933 => GET /all","timestamp":"2024-04-16T07:19:23.684Z"}
+{"level":"info","message":"[http:3000] ::1:55032 => GET /favicon.ico","timestamp":"2024-04-16T07:19:23.732Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:19:23.734Z"}
+{"level":"info","message":"[http:3000] ::1:55041 => GET /all","timestamp":"2024-04-16T07:19:25.272Z"}
+{"level":"info","message":"[http:3000] ::1:55042 => GET /favicon.ico","timestamp":"2024-04-16T07:19:25.337Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:19:25.343Z"}
+{"level":"error","message":"[mb:2525] ::1:54932 transmission error X=> {\"code\":\"ERR_HTTP_REQUEST_TIMEOUT\"}","timestamp":"2024-04-16T07:20:33.321Z"}
+{"level":"info","message":"[http:3000] ::1:61610 => GET /all","timestamp":"2024-04-16T07:26:53.431Z"}
+{"level":"info","message":"[http:3000] ::1:51398 => GET /EUR","timestamp":"2024-04-16T07:39:06.716Z"}
+{"level":"info","message":"[http:3000] ::1:51399 => GET /favicon.ico","timestamp":"2024-04-16T07:39:06.752Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:39:06.754Z"}
+{"level":"info","message":"[http:3000] ::1:51579 => GET /AMD","timestamp":"2024-04-16T07:39:45.783Z"}
+{"level":"info","message":"[http:3000] ::1:51580 => GET /favicon.ico","timestamp":"2024-04-16T07:39:45.827Z"}
+{"level":"info","message":"[http:3000] no predicate match, using default response","timestamp":"2024-04-16T07:39:45.829Z"}
